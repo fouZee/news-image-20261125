@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty `news-image-20261125`: one image summing up the world news of Wednesday 25 November 2026.
 
-A newspaper front page. The lead story is two oil tankers hitting naval mines in the Strait of Hormuz — both exploding and catching fire — with the Houthis saying they attacked the Ras Tanura refinery; below it, Ukrainian drones setting two Russian refineries ablaze and the global stock sell-off that clawed most of its losses back; six briefs cover the Colombia hostages freed, the Australia–Solomon Islands pact, Pakistan's first astronaut reaching Tiangong, the Sudan drone strikes, the Cairo tanker fire, and the Macy's parade postponed. The illustration is flat artwork drawn with PIL; all text is drawn with PIL so it stays legible.
+A newspaper front page. The lead story is two oil tankers hitting naval mines in the Strait of Hormuz — both exploding and catching fire — with the Houthis saying they attacked the Ras Tanura refinery; below it, Ukrainian drones setting two Russian refineries ablaze and the global stock sell-off that clawed most of its losses back; six briefs cover the Colombia hostages freed, the Australia–Solomon Islands pact, Pakistan's first astronaut reaching Tiangong, the Sudan drone strikes, the Cairo tanker fire, and the Macy's parade postponed. The page is flat artwork drawn with PIL; all text is drawn with PIL so it stays legible.
 
 `build_image.py` regenerates `entry.png` from scratch (Python 3 + Pillow, system DejaVu fonts).
 
